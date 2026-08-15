@@ -105,12 +105,6 @@ All intermediate and final results are written to `results/`, and figures to
   (patient, fine-tuning size) combination, so long runs can be safely
   interrupted and resumed with `--resume` without repeating completed work.
 
-## Citation
-
-If you use this code, please cite:
-
-> [Author names]. "Cross-Patient Transfer Learning for Stimulus Encoders."
-> [Journal], [year]. [DOI]
 
 This work depends on pulse2percept; please also cite:
 
@@ -120,7 +114,7 @@ This work depends on pulse2percept; please also cite:
 
 ## License
 
-[Insert license — e.g., MIT, BSD-3-Clause]
+See LICENSE
 
 ## Data availability
 
