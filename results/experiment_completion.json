@@ -1,0 +1,23 @@
+{
+  "total_rows": 1200,
+  "expected_rows": 1200,
+  "n_holdout_patients": 20,
+  "finetune_sizes": [
+    5,
+    10,
+    20,
+    50,
+    100,
+    200
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_eval_images": 20,
+  "completed_at": "2026-08-13 17:04:28",
+  "device": "cuda"
+}
